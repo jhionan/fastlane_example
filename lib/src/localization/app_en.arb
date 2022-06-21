@@ -1,0 +1,6 @@
+{
+  "appTitle": "fast_lane_example",
+  "@appTitle": {
+    "description": "The title of the application"
+  }
+}
